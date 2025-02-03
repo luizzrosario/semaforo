@@ -30,6 +30,3 @@ Em acréscimo, a primeira informação de estado é dada a partir do 1º segundo
 - Depois de mais **3 segundos**, muda para **verde**.
 - O ciclo continua indefinidamente.
 - A cada **1 segundo**, a cor atual é impressa na porta serial.
-
-## Autor
-Desenvolvido como exercício de aprendizado com o Raspberry Pi Pico.
